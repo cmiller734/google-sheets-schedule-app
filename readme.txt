@@ -1,0 +1,8 @@
+These files relate to freelance work I did for a great animation client in MA. Due to the nature of the agreement I have with them,
+I can't release the company name or any other company-specific information. I created these scripts to add color-coding functionality
+to their timesheet application, which was built with Google Sheets. This project involved working with a variety of interesting
+problems, including working with the Google Sheets API and choosing the best way to optimize an algorithm that pulled data from
+the "Schedule" tab of their application (including color) and using it to populate the "People" tab of their application. 
+
+Essentially, color-projects.js adds color from a predefined color array to every project on their projects sheet. Populate-last-
+people-col.js assigns projects to people for that day, every time a new day is added to the end of the spreadsheet.
