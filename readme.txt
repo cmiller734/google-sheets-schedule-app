@@ -1,4 +1,4 @@
-These files relate to freelance work I did for a great animation client in MA. Due to the nature of the agreement I have with them,
+These files relate to freelance work I did for a great animation client. Due to the nature of the agreement I have with them,
 I can't release the company name or any other company-specific information. I created these scripts to add color-coding functionality
 to their timesheet application, which was built with Google Sheets. This project involved working with a variety of interesting
 problems, including working with the Google Sheets API and choosing the best way to optimize an algorithm that pulled data from
